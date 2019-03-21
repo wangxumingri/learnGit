@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a00512
+=======
+此时b在Apush后，也修改了文件 --user1s
+>>>>>>> .merge_file_a04740
 user2 修改 b.txt  ---user2
